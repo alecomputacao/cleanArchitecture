@@ -27,7 +27,6 @@ public class Aluno {
 	public void adicionarTelefone(String ddd, String numero) {
     	
     	this.telefones.add(new Telefone(ddd, numero));
-    	
     }
     
     
